@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Nama saya Selna<br>
+Saat ini sedang belajar pemograman lewat bootcamp Dicoding :)
 <!--
 **selnaa/selnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
